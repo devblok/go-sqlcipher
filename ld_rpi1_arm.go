@@ -1,4 +1,5 @@
-// +build !static,rpi1
+// +build !static
+// +build rpi1
 
 package sqlite3
 
